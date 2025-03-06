@@ -1,2 +1,7 @@
 Aguante boca
+<<<<<<< HEAD
 Aguante Belgranoooooo!!!
+=======
+Estoy realizando un cambio en el primer txt
+Realizo un cambio en el txt 
+>>>>>>> 55ff419e95e4489179af47995ec7fbbc6e2aaa23
